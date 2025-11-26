@@ -18,7 +18,7 @@ Ele ajuda a focar nos problemas mais significativos, aplicando a regra **80/20**
 
 <br>
 
-* **20%** dos estados correespondem a **80%** dos valores de frete. 
+* **20%** dos estados correspondem a **80%** dos valores de frete. 
 * **84,02%** dos fretes estão concentrados em 3 estados: **SP, MG e PR**.
 * Apenas o estado de **SP** corresponde a **65,83%** do total acumulado.
 
@@ -89,7 +89,7 @@ Função **CALCULATE**.
 
 <br>
 
-* **20%** dos estados correespondem a **80%** dos valores de frete. 
+* **20%** dos estados correspondem a **80%** dos valores de frete. 
 * **84,02%** dos fretes estão concentrados em 3 estados: **SP, MG e PR**.
 * Apenas o estado de **SP** corresponde a **65,83%** do total acumulado.
 
