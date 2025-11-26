@@ -68,3 +68,29 @@ Função **CALCULATE**.
 <div align="center">
 <img src="https://github.com/user-attachments/assets/27f911ce-6c60-4828-8773-a6ccdbbf7051" />
 </div>
+
+<br>
+
+* Função **ALLSELECTED:** Garante que a função **DIVIDE** considere o valor total do frete por estados ao criar o percentual acumulado.
+
+<br>
+
+---
+
+<br>
+
+### Validação das fórmulas DAX utilizando visual de tabela:
+
+<br>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/934ce3d9-be3d-4afb-89c6-cc06d2f5d420"/>
+</div>
+
+<br>
+
+* **20%** dos estados correespondem a **80%** dos valores de frete. 
+* **84,02%** dos fretes estão concentrados em 3 estados: **SP, MG e PR**.
+* Apenas o estado de **SP** corresponde a **65,83%** do total acumulado.
+
+
